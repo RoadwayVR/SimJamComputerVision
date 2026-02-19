@@ -34,16 +34,18 @@ A practical workflow is:
 1) **Detect + track** road users using YOLO-based models  
 <p align="center">
   <img src="https://github.com/user-attachments/assets/00077e81-e551-42a0-808f-74382595231e"
-       alt="SimJam workflow"
+       alt="Detection + Tracking interface (SimJam Computer Vision)"
        width="720">
 </p>
+<p align="center"><em>Step 1 — Detection + Tracking</em></p>
 
 2) **Export analytics** (counts / speeds / trajectories / summaries)
 <p align="center">
   <img src="https://github.com/user-attachments/assets/8a588cb9-e2b7-463b-986b-f9be19fdafe4"
-       alt="SimJam workflow"
+       alt="Analytics + Export interface (CSV summaries, counts, speeds)"
        width="720">
 </p>
+<p align="center"><em>Step 2 — Analytics + Export</em></p>
 
 ## Short Demo Videos (Click to Play)
 
