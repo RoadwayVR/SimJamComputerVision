@@ -47,21 +47,14 @@ A practical workflow is:
 </p>
 <p align="center"><em>Step 2 — Analytics + Export</em></p>
 
-## Short Demo Videos (Click to Play)
+## Short Demo Video (Click to Play)
 
-### 1) Detection + Tracking Demo
-<p align="center"><em>Short video demo - Click to Play</em></p>
+<p align="center"><em>Short demo video - Click to Play</em></p>
 <p align="center">
-  <a href="https://youtu.be/REPLACE_WITH_VIDEO_1" target="_blank">
-    <img src="https://github.com/user-attachments/assets/REPLACE_WITH_THUMBNAIL_1" alt="Detection + Tracking demo" width="720">
-  </a>
-</p>
-
-### 2) Analytics + Export Demo (Counts / Speeds / CSV)
-<p align="center"><em>Short video demo - Click to Play</em></p>
-<p align="center">
-  <a href="https://youtu.be/REPLACE_WITH_VIDEO_2" target="_blank">
-    <img src="https://github.com/user-attachments/assets/REPLACE_WITH_THUMBNAIL_2" alt="Analytics + Export demo" width="720">
+  <a href="https://youtu.be/REPLACE_WITH_DEMO_VIDEO" target="_blank" rel="noopener noreferrer">
+    <img src="https://github.com/user-attachments/assets/REPLACE_WITH_THUMBNAIL"
+         alt="SimJam Computer Vision Analytics - Short Demo"
+         width="720">
   </a>
 </p>
 
