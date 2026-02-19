@@ -40,7 +40,7 @@ A practical workflow is:
 
 2) **Export analytics** (counts / speeds / trajectories / summaries)
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/8a588cb9-e2b7-463b-986b-f9be19fdafe4)"
+  <img src="https://github.com/user-attachments/assets/8a588cb9-e2b7-463b-986b-f9be19fdafe4"
        alt="SimJam workflow"
        width="720">
 </p>
