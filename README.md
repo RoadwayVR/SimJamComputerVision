@@ -36,7 +36,9 @@ A practical workflow is:
 3) **Export analytics** (counts / speeds / trajectories / summaries)
 
 <p align="center">
-  <img src="![SimJamCV1](https://github.com/user-attachments/assets/00077e81-e551-42a0-808f-74382595231e)" alt="SimJam workflow" width="720">
+  <img src="https://github.com/user-attachments/assets/00077e81-e551-42a0-808f-74382595231e"
+       alt="SimJam workflow"
+       width="720">
 </p>
 
 ## Short Demo Videos (Click to Play)
