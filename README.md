@@ -31,12 +31,16 @@ Typical use cases:
 ## Workflow Overview
 A practical workflow is:
 
-1) **Load a video** (CCTV / drone / roadside)  
-2) **Detect + track** road users using YOLO-based models  
-3) **Export analytics** (counts / speeds / trajectories / summaries)
-
+1) **Detect + track** road users using YOLO-based models  
 <p align="center">
   <img src="https://github.com/user-attachments/assets/00077e81-e551-42a0-808f-74382595231e"
+       alt="SimJam workflow"
+       width="720">
+</p>
+
+2) **Export analytics** (counts / speeds / trajectories / summaries)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/8a588cb9-e2b7-463b-986b-f9be19fdafe4)"
        alt="SimJam workflow"
        width="720">
 </p>
