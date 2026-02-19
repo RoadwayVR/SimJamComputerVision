@@ -51,8 +51,8 @@ A practical workflow is:
 
 <p align="center"><em>Short demo video - Click to Play</em></p>
 <p align="center">
-  <a href="https://youtu.be/REPLACE_WITH_DEMO_VIDEO" target="_blank" rel="noopener noreferrer">
-    <img src="https://github.com/user-attachments/assets/REPLACE_WITH_THUMBNAIL"
+  <a href="https://youtu.be/ez3ZOUufBHY" target="_blank" rel="noopener noreferrer">
+    <img src="https://github.com/user-attachments/assets/6f54524c-8524-4ac8-adaa-4cf4ee3f8eb5"
          alt="SimJam Computer Vision Analytics - Short Demo"
          width="720">
   </a>
