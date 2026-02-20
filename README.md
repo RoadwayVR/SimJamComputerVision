@@ -71,5 +71,3 @@ The easiest way to get started is to follow the step-by-step video tutorial:
          width="720">
   </a>
 </p>
-git clone https://github.com/RoadwayVR/SimJamComputerVision.git
-cd SimJamComputerVision
