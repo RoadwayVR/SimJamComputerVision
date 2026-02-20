@@ -71,3 +71,7 @@ The easiest way to get started is to follow the step-by-step video tutorial:
          width="720">
   </a>
 </p>
+
+## Requirement 
+Python version 3.12 and higher
+Visual Studio code
