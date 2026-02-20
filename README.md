@@ -74,4 +74,5 @@ The easiest way to get started is to follow the step-by-step video tutorial:
 
 ## Requirement 
 Python version 3.12 and higher
+
 Visual Studio code
