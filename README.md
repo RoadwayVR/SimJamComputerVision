@@ -66,7 +66,7 @@ The easiest way to get started is to follow the step-by-step video tutorial:
 🎥 **Getting Started Tutorial (Click to Play)**  
 <p align="center">
   <a href="https://youtu.be/ez3ZOUufBHY" target="_blank" rel="noopener noreferrer">
-    <img src="https://github.com/user-attachments/assets/28851da5-2f83-4604-8ef6-a4bbd6f0cba3"
+    <img src="https://github.com/user-attachments/assets/14896b21-8088-4302-8845-f95d2fc83ea1"
          alt="SimJam Computer Vision Analytics - Getting Started Tutorial"
          width="720">
   </a>
