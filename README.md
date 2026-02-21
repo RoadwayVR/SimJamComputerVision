@@ -76,3 +76,6 @@ The easiest way to get started is to follow the step-by-step video tutorial:
 Python version 3.12 and higher
 
 Visual Studio code
+
+## License
+This project is licensed under the MIT License. It uses Ultralytics YOLO which is licensed under AGPL-3.0. This project is distributed as open-source in compliance with that license.
